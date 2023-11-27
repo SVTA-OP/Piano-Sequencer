@@ -1,7 +1,8 @@
 # Piano-Sequencer
 Type in a song and let the magic unfold!  
 ## ATTENTION:
-A new linux port has been made, available in the Linux branch, based on version 1.2.1 beta.
+A new linux port has been made, available in the Linux branch, based on version 1.2.1 beta.  
+This is now the MAIN REPOSITORY SINCE THE OLD ACCOUNT GOT LOCKED OUT. *oops*
 ### Python Modules Used:
 winsound (Works only on windows), os, sys, time
 ### How to use: 
