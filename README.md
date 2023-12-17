@@ -17,7 +17,7 @@ To run a song, simply type in the name of the song you used to save it.
 ##### Note:
 The files are saved in .txt format in "%USERPROFILE%\Piano_Sequencer". Just paste the path in the search box or the run dialog box.
 ## Changelog:
-Full changelog can be found [here](https://github.com/svta-7125/Piano-Sequencer/blob/main/changelog.md).
+Full changelog can be found [here](https://github.com/SVTA-OP/Piano-Sequencer/blob/main/changelog.md).
 ## Downloads and compatibility:
 Go to the release tab and download the latest release. Make sure you select the .exe file for download. 
   
