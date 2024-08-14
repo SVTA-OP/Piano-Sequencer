@@ -1,7 +1,7 @@
 import os
 from time import sleep
 from sys import stdout
-import sounddevice as sd
+#import sounddevice as sd
 os.system('clear')
 try: import numpy as np
 except: 
