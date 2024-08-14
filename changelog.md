@@ -1,4 +1,8 @@
 # Changelog:
+
+## Piano Sequencer v1.2.3:  
+Added auto installation of dependencies for Ubuntu and Fedora based distros.
+
 ## Piano Sequencer v1.2.1:  
 Optimized menu layout to remove clutter.  
 Added two more options.  
